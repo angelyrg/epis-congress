@@ -11,6 +11,9 @@
   --gray-epis-colorr : #eaede6;
 }
 
+.counter-box{
+  border: 2px solid var(--yellow-epis-color);
+}
 
 /*--------------------------------------------------------------
 # General
